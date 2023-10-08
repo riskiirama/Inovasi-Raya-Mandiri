@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "icon": "assets/properti.png",
+    "title": "Properti"
+  },
+  {
+    "id": "1",
+    "icon": "assets/kontruksi.png",
+    "title": "Kontuksi"
+  },
+  {
+    "id": "2",
+    "icon": "assets/repair.png",
+    "title": "Fiber Repair"
+  },
+  {
+    "id": "3",
+    "icon": "assets/rias.png",
+    "title": "Pernikahan"
+  }
+]
